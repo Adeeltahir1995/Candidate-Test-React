@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Faith",
+    "author": "David Adams",
+    "genre": "Fiction",
+    "progress": "72%",
+    "thumbnail": "/assets/icons/card-cover-grid.svg",
+    "last_opened": "12 Minutes Ago",
+    "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+  },
+  {
+    "id": 2,
+    "name": "The World of Ice & Fire",
+    "author": "George R. R. Martin",
+    "genre": "Fantasy",
+    "progress": "42%",
+    "thumbnail": "/assets/icons/book-cover-ice.svg",
+    "last_opened": "30 Minutes Ago",
+    "description": "Description for The World of Ice & Fire"
+  },
+  {
+    "id": 3,
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Education",
+    "progress": "12%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "2 Hours Ago",
+    "description": "Description for The Power of Habit"
+  },
+  {
+    "id": 4,
+    "name": "Wild Wisdom",
+    "author": "Neil Doughlas-Klotz",
+    "genre": "Adventure",
+    "progress": "100%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "Yesterday",
+    "description": "Description for The Wild Wisdom"
+  },
+  {
+    "id": 5,
+    "name": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": "Nature",
+    "progress": "30%",
+    "thumbnail": "/assets/icons/book-cover-sky-night.svg",
+    "last_opened": "1 Week Ago",
+    "description": "Description for Into Thin Air"
+  },
+  {
+    "id": 6,
+    "name": "Faith",
+    "author": "David Adams",
+    "genre": "Fiction",
+    "progress": "72%",
+    "thumbnail": "/assets/icons/card-cover-grid.svg",
+    "last_opened": "12 Minutes Ago",
+    "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+  },
+  {
+    "id": 7,
+    "name": "The World of Ice & Fire",
+    "author": "George R. R. Martin",
+    "genre": "Fantasy",
+    "progress": "42%",
+    "thumbnail": "/assets/icons/book-cover-ice.svg",
+    "last_opened": "30 Minutes Ago",
+    "description": "Description for The World of Ice & Fire"
+  },
+  {
+    "id": 8,
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Education",
+    "progress": "12%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "2 Hours Ago",
+    "description": "Description for The Power of Habit"
+  },
+  {
+    "id": 9,
+    "name": "Wild Wisdom",
+    "author": "Neil Doughlas-Klotz",
+    "genre": "Adventure",
+    "progress": "100%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "Yesterday",
+    "description": "Description for The Wild Wisdom"
+  },
+  {
+    "id": 10,
+    "name": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": "Nature",
+    "progress": "30%",
+    "thumbnail": "/assets/icons/book-cover-sky-night.svg",
+    "last_opened": "1 Week Ago",
+    "description": "Description for Into Thin Air"
+  },
+  {
+    "id": 11,
+    "name": "Faith",
+    "author": "David Adams",
+    "genre": "Fiction",
+    "progress": "72%",
+    "thumbnail": "/assets/icons/card-cover-grid.svg",
+    "last_opened": "12 Minutes Ago",
+    "description": "Hundreds of years before the Toralii attacked Earth, destroying the cities of Beijing, Tehran and Sydney, before they developed the voidwarp technology and destroyed their homeworld, they warred amongst themselves."
+  },
+  {
+    "id": 12,
+    "name": "The World of Ice & Fire",
+    "author": "George R. R. Martin",
+    "genre": "Fantasy",
+    "progress": "42%",
+    "thumbnail": "/assets/icons/book-cover-ice.svg",
+    "last_opened": "30 Minutes Ago",
+    "description": "Description for The World of Ice & Fire"
+  },
+  {
+    "id": 13,
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Education",
+    "progress": "12%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "2 Hours Ago",
+    "description": "Description for The Power of Habit"
+  },
+  {
+    "id": 14,
+    "name": "Wild Wisdom",
+    "author": "Neil Doughlas-Klotz",
+    "genre": "Adventure",
+    "progress": "100%",
+    "thumbnail": "/assets/icons/book-cover-power.svg",
+    "last_opened": "Yesterday",
+    "description": "Description for The Wild Wisdom"
+  },
+  {
+    "id": 15,
+    "name": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": "Nature",
+    "progress": "30%",
+    "thumbnail": "/assets/icons/book-cover-sky-night.svg",
+    "last_opened": "1 Week Ago",
+    "description": "Description for Into Thin Air"
+  }
+]
